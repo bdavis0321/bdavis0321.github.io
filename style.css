@@ -31,5 +31,8 @@ body {
   }
   header
   h1 {
-    font-family: "Papyrus";
+    font-family: "Ballbase";
+  }
+  h2 {
+    font-family: "Futura";
   }
